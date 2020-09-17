@@ -1,0 +1,6 @@
+# Los primeros pasos son 
+
+cargar los datos
+realizar un analisis descriptivo con todo y graficas
+PLantear hipotesis 
+Realizar una regresion
